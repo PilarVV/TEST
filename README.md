@@ -8,4 +8,6 @@ Please `Fork` the project, then create your branch and add your name (in the cor
   <li>Firts student</li>
   <li>Second student</li>
   <li>Third student</li>
+  <li>Laboratorio A - Glina de la Flor Puma Huamani 	191873</li>
 </ol>
+
