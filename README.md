@@ -6,6 +6,4 @@ Please `Fork` the project, then create your branch and add your name (in the cor
 
 <ol>
   <li>Cahuata Lavilla Yolmy Milagros</li>
-  <li>Second student</li>
-  <li>Third student</li>
 </ol>
