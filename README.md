@@ -5,7 +5,7 @@ This is the repository created to the course of Ing. de software-II 2022-II, the
 Please `Fork` the project, then create your branch and add your name (in the correct format) to the list and perform a `pull request`.
 
 <ol>
-  <li>Firts student</li>
+  <li>Edward Brayan Naola Puma 174913</li>
   <li>Second student</li>
   <li>Third student</li>
 </ol>
